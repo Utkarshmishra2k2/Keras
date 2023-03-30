@@ -1,2 +1,5 @@
 # Keras
 Introduction to NLP{Natural language processing}
+
+
+Keras is an open-source neural network library written in Python that enables developers to easily design, build, and train deep learning models. It is a high-level API built on top of lower-level neural network libraries such as TensorFlow, Theano, and CNTK, providing a simpler and more intuitive way to create deep learning models. Keras allows users to quickly build and prototype deep learning models with minimal coding and provides a range of tools for implementing a variety of neural network architectures, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs). Additionally, Keras provides easy-to-use interfaces for data preprocessing, model evaluation, and visualization, making it an accessible tool for both beginners and experienced developers alike. With its user-friendly interface, flexibility, and wide range of applications, Keras has become a popular choice for implementing deep learning models in a variety of fields, including computer vision, natural language processing, and robotics.
